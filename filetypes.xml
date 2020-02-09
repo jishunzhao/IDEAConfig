@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="工厂方法模式" type="PLAIN_TEXT" />
       <mapping pattern="清空数据sql" type="PLAIN_TEXT" />
       <mapping pattern="说明" type="PLAIN_TEXT" />
       <mapping pattern="本年累计" type="PLAIN_TEXT" />
