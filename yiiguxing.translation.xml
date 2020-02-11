@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The class {@code Object} does not itself implement the interface * {@code Cloneable}, so calling the {@code clone} method on an object * whose class is {@code Object} will result in throwing an * exception at run time." />
+      <item value="The method {@code clone} for class {@code Object} performs a * specific cloning operation. First, if the class of this object does * not implement the interface {@code Cloneable}, then a * {@code CloneNotSupportedException} is thrown. Note that all arrays * are considered to implement the interface {@code Cloneable} and that * the return type of the {@code clone} method of an array type {@code T[]} * is {@code T[]} where T is any reference or primitive type. * Otherwise, this method creates a new instance of the class of this * object and initializes all its fields with exactly the contents of * the corresponding fields of this object, as if by assignment; the * contents of the fields are not themselves cloned. Thus, this method * performs a &quot;shallow copy&quot; of this object, not a &quot;deep copy&quot; operation. * &lt;p&gt;" />
+      <item value="By convention, the object returned by this method should be independent * of this object (which is being cloned). To achieve this independence, * it may be necessary to modify one or more fields of the object returned * by {@code super.clone} before returning it. Typically, this means * copying any mutable objects that comprise the internal &quot;deep structure&quot; * of the object being cloned and replacing the references to these * objects with references to the copies. If a class contains only * primitive fields or references to immutable objects, then it is usually * the case that no fields in the object returned by {@code super.clone} * need to be modified." />
+      <item value="By convention, the returned object should be obtained by calling * {@code super.clone}. If a class and all of its superclasses (except * {@code Object}) obey this convention, it will be the case that" />
+      <item value="will be {@code true}, but these are not absolute requirements. * While it is typically the case that:" />
+      <item value="Creates and returns a copy of this object. The precise meaning * of &quot;copy&quot; may depend on the class of the object. The general * intent is that, for any object {@code x}, the expression:" />
       <item value="Greeting Integration Tests" />
       <item value="Seems your browser doesn't support Javascript! Websocket relies on Javascript being enabled. Please enable Javascript and reload this page" />
       <item value="# Getting Started ### Reference Documentation For further reference, please consider the following sections: * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html) * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.4.RELEASE/maven-plugin/) * [WebSocket](https://docs.spring.io/spring-boot/docs/2.2.4.RELEASE/reference/htmlsingle/#boot-features-websockets) ### Guides The following guides illustrate how to use some features concretely: * [Using WebSocket to build an interactive web application](https://spring.io/guides/gs/messaging-stomp-websocket/)" />
@@ -12,8 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
