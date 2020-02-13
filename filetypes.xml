@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="md" type="Markdown" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="工厂方法模式" type="PLAIN_TEXT" />
@@ -10,7 +9,6 @@
       <mapping pattern="本年累计" type="PLAIN_TEXT" />
       <mapping pattern="适配器模式" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
