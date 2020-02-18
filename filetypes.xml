@@ -9,6 +9,7 @@
       <mapping pattern="本年累计" type="PLAIN_TEXT" />
       <mapping pattern="适配器模式" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping pattern="享元模式" type="PLAIN_TEXT" />
       <mapping ext="ms" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
