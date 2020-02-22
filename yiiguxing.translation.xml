@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specialization of {@link Component @Component} for classes that declare * {@link ExceptionHandler @ExceptionHandler}, {@link InitBinder @InitBinder}, or * {@link ModelAttribute @ModelAttribute} methods to be shared across * multiple {@code @Controller} classes." />
       <item value="The class {@code Object} does not itself implement the interface * {@code Cloneable}, so calling the {@code clone} method on an object * whose class is {@code Object} will result in throwing an * exception at run time." />
       <item value="The method {@code clone} for class {@code Object} performs a * specific cloning operation. First, if the class of this object does * not implement the interface {@code Cloneable}, then a * {@code CloneNotSupportedException} is thrown. Note that all arrays * are considered to implement the interface {@code Cloneable} and that * the return type of the {@code clone} method of an array type {@code T[]} * is {@code T[]} where T is any reference or primitive type. * Otherwise, this method creates a new instance of the class of this * object and initializes all its fields with exactly the contents of * the corresponding fields of this object, as if by assignment; the * contents of the fields are not themselves cloned. Thus, this method * performs a &quot;shallow copy&quot; of this object, not a &quot;deep copy&quot; operation. * &lt;p&gt;" />
       <item value="By convention, the object returned by this method should be independent * of this object (which is being cloned). To achieve this independence, * it may be necessary to modify one or more fields of the object returned * by {@code super.clone} before returning it. Typically, this means * copying any mutable objects that comprise the internal &quot;deep structure&quot; * of the object being cloned and replacing the references to these * objects with references to the copies. If a class contains only * primitive fields or references to immutable objects, then it is usually * the case that no fields in the object returned by {@code super.clone} * need to be modified." />
@@ -18,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
