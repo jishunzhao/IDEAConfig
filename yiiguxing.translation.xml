@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Persistence Exception" />
       <item value="Talk is cheap" />
       <item value="both methods have same erasure, yet neither overrides the other" />
       <item value="reasonable" />
@@ -25,8 +26,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="23" />
       </map>
     </option>
   </component>
