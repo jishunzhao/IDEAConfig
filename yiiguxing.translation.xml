@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="select * from iprecord" />
       <item value="argument type mismatch" />
       <item value="Mapped Statements collection does not contain value for" />
       <item value="Required Args Constructor" />
