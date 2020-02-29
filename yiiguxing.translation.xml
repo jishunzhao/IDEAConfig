@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ReflectionException: There is no setter for property named" />
+      <item value="There is no setter for property named 'UrlRecord' in" />
       <item value="select * from iprecord" />
       <item value="argument type mismatch" />
       <item value="Mapped Statements collection does not contain value for" />
@@ -33,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
