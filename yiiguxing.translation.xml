@@ -1,6 +1,33 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Permitted" />
+      <item value="a (very powerful) Instance Level permission:" />
+      <item value="test a typed permission (not instance-level)" />
+      <item value="schwartz" />
+      <item value="role" />
+      <item value="test a role:" />
+      <item value="/say who they are: //print their identifying principal (in this case, a username):" />
+      <item value="say who they are: //print their identifying principal (in this case, a username):" />
+      <item value="Locked Account" />
+      <item value="Incorrect Credentials" />
+      <item value="Sorry, you aren't allowed to drive the 'eagle5' winnebago!" />
+      <item value="Sorry, lightsaber rings are for schwartz masters only." />
+      <item value="Hello, mere mortal." />
+      <item value="User [null] logged in successfully." />
+      <item value="You are permitted to 'drive' the winnebago with license plate (id) 'eagle5'. Here are the keys - have fun!" />
+      <item value="You may use a lightsaber ring. Use it wisely." />
+      <item value="May the Schwartz be with you!" />
+      <item value="User [lonestarr] logged in successfully." />
+      <item value="Retrieved the correct value! [aValue]" />
+      <item value="There is no user with username of" />
+      <item value="let's login the current user so we can check against roles and permissions:" />
+      <item value="Do some stuff with a Session (no need for a web or EJB container!!!)" />
+      <item value="// get the currently executing user:" />
+      <item value="// Now that a simple Shiro environment is set up, let's see what you can do:" />
+      <item value="// for this simple example quickstart, make the SecurityManager // accessible as a JVM singleton. Most applications wouldn't do this // and instead rely on their container configuration or web.xml for // webapps. That is outside the scope of this simple quickstart, so // we'll just do the bare minimum so you can continue to get a feel // for things." />
+      <item value="/ The easiest way to create a Shiro SecurityManager with configured // realms, users, roles and permissions is to use the simple INI config. // We'll do that by using a factory that can ingest a .ini file and // return a SecurityManager instance:" />
+      <item value="// The easiest way to create a Shiro SecurityManager with configured // realms, users, roles and permissions is to use the simple INI config. // We'll do that by using a factory that can ingest a .ini file and // return a SecurityManager instance:" />
       <item value="ReflectionException: There is no setter for property named" />
       <item value="There is no setter for property named 'UrlRecord' in" />
       <item value="select * from iprecord" />
@@ -24,19 +51,11 @@
       <item value="By convention, the returned object should be obtained by calling * {@code super.clone}. If a class and all of its superclasses (except * {@code Object}) obey this convention, it will be the case that" />
       <item value="will be {@code true}, but these are not absolute requirements. * While it is typically the case that:" />
       <item value="Creates and returns a copy of this object. The precise meaning * of &quot;copy&quot; may depend on the class of the object. The general * intent is that, for any object {@code x}, the expression:" />
-      <item value="Greeting Integration Tests" />
-      <item value="Seems your browser doesn't support Javascript! Websocket relies on Javascript being enabled. Please enable Javascript and reload this page" />
-      <item value="# Getting Started ### Reference Documentation For further reference, please consider the following sections: * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html) * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.4.RELEASE/maven-plugin/) * [WebSocket](https://docs.spring.io/spring-boot/docs/2.2.4.RELEASE/reference/htmlsingle/#boot-features-websockets) ### Guides The following guides illustrate how to use some features concretely: * [Using WebSocket to build an interactive web application](https://spring.io/guides/gs/messaging-stomp-websocket/)" />
-      <item value="normalize" />
-      <item value="class" />
-      <item value="author" />
-      <item value="version" />
-      <item value="dependencies" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
