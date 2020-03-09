@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Couldn't retrieve trigger" />
       <item value="use Legacy Datetime Code" />
       <item value="use JDBC Compliant Timezone Shift" />
       <item value="in your configuration." />
@@ -50,12 +51,11 @@
       <item value="Persistence Exception" />
       <item value="Talk is cheap" />
       <item value="both methods have same erasure, yet neither overrides the other" />
-      <item value="reasonable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="70" />
       </map>
     </option>
   </component>
