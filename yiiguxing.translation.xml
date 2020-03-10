@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="containing the informal * name of the format." />
+      <item value="a &lt;code&gt;String&lt;/code&gt; containing the informal * name of the format." />
       <item value="Couldn't retrieve trigger" />
       <item value="use Legacy Datetime Code" />
       <item value="use JDBC Compliant Timezone Shift" />
@@ -49,13 +51,11 @@
       <item value="constructor" />
       <item value="The error occurred while handling results" />
       <item value="Persistence Exception" />
-      <item value="Talk is cheap" />
-      <item value="both methods have same erasure, yet neither overrides the other" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="72" />
       </map>
     </option>
   </component>
