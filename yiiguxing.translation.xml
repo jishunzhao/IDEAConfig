@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="receiver 1" />
       <item value="exchange" />
       <item value="containing the informal * name of the format." />
       <item value="a &lt;code&gt;String&lt;/code&gt; containing the informal * name of the format." />
@@ -50,7 +51,6 @@
       <item value="Required Args Constructor" />
       <item value="create By Constructor Signature" />
       <item value="constructor" />
-      <item value="The error occurred while handling results" />
     </histories>
     <option name="languageScores">
       <map>
