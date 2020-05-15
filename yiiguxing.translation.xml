@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Disconnected from the target VM" />
       <item value="Gets the last row on the sheet" />
       <item value="Possibly consider using a shorter maxLifetime value" />
       <item value="No operations allowed after connection closed" />
@@ -50,12 +51,11 @@
       <item value="ReflectionException: There is no setter for property named" />
       <item value="There is no setter for property named 'UrlRecord' in" />
       <item value="select * from iprecord" />
-      <item value="argument type mismatch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="77" />
       </map>
     </option>
   </component>
