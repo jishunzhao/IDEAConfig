@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transient" />
       <item value="Releases all of the native screen resources used by this * {@code Window}, its subcomponents, and all of its owned * children. That is, the resources for these {@code Component}s * will be destroyed, any memory they consume will be returned to the * OS, and they will be marked as undisplayable." />
       <item value="Disconnected from the target VM" />
       <item value="Gets the last row on the sheet" />
@@ -50,12 +51,11 @@
       <item value="/ The easiest way to create a Shiro SecurityManager with configured // realms, users, roles and permissions is to use the simple INI config. // We'll do that by using a factory that can ingest a .ini file and // return a SecurityManager instance:" />
       <item value="// The easiest way to create a Shiro SecurityManager with configured // realms, users, roles and permissions is to use the simple INI config. // We'll do that by using a factory that can ingest a .ini file and // return a SecurityManager instance:" />
       <item value="ReflectionException: There is no setter for property named" />
-      <item value="There is no setter for property named 'UrlRecord' in" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="79" />
       </map>
     </option>
   </component>
