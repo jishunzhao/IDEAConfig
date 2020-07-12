@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retrieves and removes the head of this queue, * or returns {@code null} if this queue is empty. * * @return the head of this queue, or {@code null} if this queue is empty" />
       <item value="transient" />
       <item value="Releases all of the native screen resources used by this * {@code Window}, its subcomponents, and all of its owned * children. That is, the resources for these {@code Component}s * will be destroyed, any memory they consume will be returned to the * OS, and they will be marked as undisplayable." />
       <item value="Disconnected from the target VM" />
@@ -50,12 +51,11 @@
       <item value="// for this simple example quickstart, make the SecurityManager // accessible as a JVM singleton. Most applications wouldn't do this // and instead rely on their container configuration or web.xml for // webapps. That is outside the scope of this simple quickstart, so // we'll just do the bare minimum so you can continue to get a feel // for things." />
       <item value="/ The easiest way to create a Shiro SecurityManager with configured // realms, users, roles and permissions is to use the simple INI config. // We'll do that by using a factory that can ingest a .ini file and // return a SecurityManager instance:" />
       <item value="// The easiest way to create a Shiro SecurityManager with configured // realms, users, roles and permissions is to use the simple INI config. // We'll do that by using a factory that can ingest a .ini file and // return a SecurityManager instance:" />
-      <item value="ReflectionException: There is no setter for property named" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="80" />
       </map>
     </option>
   </component>
