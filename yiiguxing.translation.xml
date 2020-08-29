@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="terminates" />
+      <item value="denoted" />
+      <item value="that" />
+      <item value="Deletes the file or directory denoted by this abstract pathname. If * this pathname denotes a directory, then the directory must be empty in * order to be deleted." />
+      <item value="Requests that the file or directory denoted by this abstract * pathname be deleted when the virtual machine terminates. * Files (or directories) are deleted in the reverse order that * they are registered. Invoking this method to delete a file or * directory that is already registered for deletion has no effect. * Deletion will be attempted only for normal termination of the * virtual machine, as defined by the Java Language Specification." />
       <item value="Retrieves and removes the head of this queue, * or returns {@code null} if this queue is empty. * * @return the head of this queue, or {@code null} if this queue is empty" />
       <item value="transient" />
       <item value="Releases all of the native screen resources used by this * {@code Window}, its subcomponents, and all of its owned * children. That is, the resources for these {@code Component}s * will be destroyed, any memory they consume will be returned to the * OS, and they will be marked as undisplayable." />
@@ -46,16 +51,11 @@
       <item value="There is no user with username of" />
       <item value="let's login the current user so we can check against roles and permissions:" />
       <item value="Do some stuff with a Session (no need for a web or EJB container!!!)" />
-      <item value="// get the currently executing user:" />
-      <item value="// Now that a simple Shiro environment is set up, let's see what you can do:" />
-      <item value="// for this simple example quickstart, make the SecurityManager // accessible as a JVM singleton. Most applications wouldn't do this // and instead rely on their container configuration or web.xml for // webapps. That is outside the scope of this simple quickstart, so // we'll just do the bare minimum so you can continue to get a feel // for things." />
-      <item value="/ The easiest way to create a Shiro SecurityManager with configured // realms, users, roles and permissions is to use the simple INI config. // We'll do that by using a factory that can ingest a .ini file and // return a SecurityManager instance:" />
-      <item value="// The easiest way to create a Shiro SecurityManager with configured // realms, users, roles and permissions is to use the simple INI config. // We'll do that by using a factory that can ingest a .ini file and // return a SecurityManager instance:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="86" />
       </map>
     </option>
   </component>
