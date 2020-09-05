@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -30,7 +30,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>21</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Main'">
@@ -155,6 +155,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Reimport All Maven Projects">
+        <Item>
+          <IdeaActionID>Maven.Reimport</IdeaActionID>
+          <Description>Reimport All Maven Projects</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="RestServices">
         <Item>
           <IdeaActionID>ActivateRestServicesToolWindow</IdeaActionID>
