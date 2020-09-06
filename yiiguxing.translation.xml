@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the target of the method invocation. May be {@code null}." />
+      <item value="the value returned by the method, if any" />
+      <item value="the method being invoked" />
       <item value="Insert the specified node into the DOM after this node" />
       <item value="terminates" />
       <item value="denoted" />
@@ -48,14 +51,11 @@
       <item value="You may use a lightsaber ring. Use it wisely." />
       <item value="May the Schwartz be with you!" />
       <item value="User [lonestarr] logged in successfully." />
-      <item value="Retrieved the correct value! [aValue]" />
-      <item value="There is no user with username of" />
-      <item value="let's login the current user so we can check against roles and permissions:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="91" />
       </map>
     </option>
   </component>
