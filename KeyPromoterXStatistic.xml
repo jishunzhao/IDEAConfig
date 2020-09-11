@@ -6,7 +6,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -30,7 +30,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>76</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -46,7 +46,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>70</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>73</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Main (1)'">
@@ -142,7 +142,23 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>5</Count>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FebsApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'FebsApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FileTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'FileTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'LogbackApplication'">
@@ -183,6 +199,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'FEBS-Shiro [package]'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FebsApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'FebsApplication'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'LogbackApplication'">
