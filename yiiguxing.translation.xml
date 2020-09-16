@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="{@link PhantomReference} subclass to track {@link MysqlConnection} objects finalization. * This class holds a reference to the Connection's {@link NetworkResources} so they it can be later closed." />
       <item value="This class implements a thread that is responsible for closing abandoned MySQL connections, i.e., connections that are not explicitly closed. * There is only one instance of this class and there is a single thread to do this task. This thread's executor is statically referenced in this same class." />
       <item value="racks the finalization of a {@link MysqlConnection} object and keeps a reference to its {@link NetworkResources} so that they can be later released." />
       <item value="the target of the method invocation. May be {@code null}." />
@@ -50,12 +51,11 @@
       <item value="Hello, mere mortal." />
       <item value="User [null] logged in successfully." />
       <item value="You are permitted to 'drive' the winnebago with license plate (id) 'eagle5'. Here are the keys - have fun!" />
-      <item value="You may use a lightsaber ring. Use it wisely." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="94" />
       </map>
     </option>
   </component>
