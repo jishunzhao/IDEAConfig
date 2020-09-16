@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This class implements a thread that is responsible for closing abandoned MySQL connections, i.e., connections that are not explicitly closed. * There is only one instance of this class and there is a single thread to do this task. This thread's executor is statically referenced in this same class." />
+      <item value="racks the finalization of a {@link MysqlConnection} object and keeps a reference to its {@link NetworkResources} so that they can be later released." />
       <item value="the target of the method invocation. May be {@code null}." />
       <item value="the value returned by the method, if any" />
       <item value="the method being invoked" />
@@ -49,13 +51,11 @@
       <item value="User [null] logged in successfully." />
       <item value="You are permitted to 'drive' the winnebago with license plate (id) 'eagle5'. Here are the keys - have fun!" />
       <item value="You may use a lightsaber ring. Use it wisely." />
-      <item value="May the Schwartz be with you!" />
-      <item value="User [lonestarr] logged in successfully." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="93" />
       </map>
     </option>
   </component>
