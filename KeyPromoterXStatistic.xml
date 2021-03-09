@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>166</Count>
+          <Count>170</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -126,7 +126,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>206</Count>
+          <Count>208</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -543,6 +543,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'MainTest'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MessageTest.tes1t'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'MessageTest.tes1t'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Test'">
