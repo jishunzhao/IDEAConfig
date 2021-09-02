@@ -1,6 +1,11 @@
 <application>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
+    <option name="languageToProjectMap">
+      <map>
+        <entry key="JAVA" value="C:\Users\zhaojishunpc\AppData\Roaming\JetBrains\IdeaIC2021.1\demo\IdeaLearningProject" />
+      </map>
+    </option>
   </component>
   <component name="LessonStateBase">
     <option name="map">
@@ -11,7 +16,7 @@
         <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
         <entry key="codeassistance.parameterinfo" value="NOT_PASSED" />
         <entry key="codeassistance.quickpopups" value="NOT_PASSED" />
-        <entry key="collapse" value="NOT_PASSED" />
+        <entry key="collapse" value="PASSED" />
         <entry key="comment line" value="NOT_PASSED" />
         <entry key="completion with tab" value="NOT_PASSED" />
         <entry key="context.actions" value="NOT_PASSED" />
