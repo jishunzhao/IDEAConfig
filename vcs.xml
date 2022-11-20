@@ -34,9 +34,13 @@
           <option name="url" value="http://gitee.com" />
           <option name="userName" value="zhaojishun" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/dl88250/solo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\demoproject" />
+    <option name="cloneParentDir" value="F:\project" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
