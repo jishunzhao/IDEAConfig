@@ -1,4 +1,8 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="Maven.GlobalProjectMenu">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
