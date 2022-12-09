@@ -69,4 +69,23 @@
       </youdao-translate>
     </option>
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1670583182661" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="MICROSOFT" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Determines if the getAuthentication() has any of the specified authorities within Authentication.getAuthorities(). Params: authorities – the authorities to test (i.e. &quot;ROLE_USER&quot;, &quot;ROLE_ADMIN&quot;) Returns: true if any of the authorities is found, else false" />
+      <item value="Determines if the getAuthentication() has a particular authority within Authentication.getAuthorities(). This is similar to hasAuthority(String) except that this method implies that the String passed in is a role. For example, if &quot;USER&quot; is passed in the implementation may convert it to use &quot;ROLE_USER&quot; instead. The way in which the role is converted may depend on the implementation settings. Params: role – the authority to test (i.e. &quot;USER&quot;) Returns: true if the authority is found, else false" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
 </application>
