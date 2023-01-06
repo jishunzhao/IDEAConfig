@@ -81,6 +81,7 @@
     <option name="newTranslationDialogX" value="408" />
     <option name="newTranslationDialogY" value="283" />
     <histories>
+      <item value="instant" />
       <item value="A Reactive Streams Publisher with basic rx operators that emits at most one item via the onNext signal then terminates with an onComplete signal (successful Mono, with or without value), or only emits a single onError signal (failed Mono)." />
       <item value="ndicates that the named compiler warnings should be suppressed in the annotated element (and in all program elements contained in the annotated element). Note that the set of warnings suppressed in a given element is a superset of the warnings suppressed in all containing elements. For example, if you annotate a class to suppress one warning and annotate a method to suppress another, both warnings will be suppressed in the method. As a matter of style, programmers should always use this annotation on the most deeply nested element where it is effective. If you want to suppress a warning in a particular method, you should annotate that method rather than its class." />
       <item value="Determines if the getAuthentication() has any of the specified authorities within Authentication.getAuthorities(). Params: authorities – the authorities to test (i.e. &quot;ROLE_USER&quot;, &quot;ROLE_ADMIN&quot;) Returns: true if any of the authorities is found, else false" />
@@ -89,7 +90,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
